@@ -1,4 +1,4 @@
-# GLAB-370.2.5 The String Manipulation Conquest: Python Edition
+# GLAB-370.2.5 The String Manipulation Conquest
 
 ## Introduction
 Welcome to GLAB-370.2.5! Prepare yourself for an exhilarating conquest into the realm of string manipulation using dictionaries and lists in Python. In this lab, you'll harness the power of functions to process dictionaries and lists, and unleash your creativity in manipulating strings. Brace yourself for The String Manipulation Conquest!
